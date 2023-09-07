@@ -11,7 +11,7 @@ This project aims to predict the surface area of a cylinder based on its radius 
 
 ## Step 1: Generate and Split the Dataset
 
-- Create a dataset with synthetic data points representing cylinders with various radii and heights.
+- Create a dataset with synthetic data points representing cylinders with various radius and heights.
 - Split the dataset into a training set and a testing set with an 80/20 ratio.
 
 **Libraries Used**: `pandas`, `numpy`, `sklearn`
