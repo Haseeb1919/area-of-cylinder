@@ -10,7 +10,7 @@ def predict():
         radius_input = float(input("Enter the radius: "))
         height_input = float(input("Enter the height: "))
         
-        # Prepare data   
+        # Prepare data  
         X_new = [[radius_input, height_input]]
 
         # Predict
