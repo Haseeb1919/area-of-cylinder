@@ -14,9 +14,9 @@ This project aims to predict the surface area of a cylinder based on its radius 
 
 ## Step 2: Choose Machine Learning Models
 
-- Select four machine learning models for this project: Random Forest Regressor and K-Nearest Neighbors Regressor from `sklearn`.
-- Perform Hyperparameter Tuning to find the best parameters for the models.
+- Selected 2 machine learning models for this project: Random Forest Regressor and K-Nearest Neighbors Regressor from `sklearn`.
 - These models are suitable for regression tasks and will be used to predict the surface area of cylinders based on input features.
+- Perform Hyperparameter Tuning to find the best parameters for the models.
 - **Data Scaling**: Different types of scaling techniques were tried to normalize the data and assess their impact on model performance. The chosen scaling technique for this project is Standard Scaling.
 
 
@@ -52,6 +52,10 @@ This project aims to predict the surface area of a cylinder based on its radius 
 ## How to Install Required Libraries
 
 To install the required libraries for this project, you can create a `requirements.txt` file with the following content:
+
+
+    pip install -r requirements.txt
+    
 
 ```plaintext
 # requirements.txt
