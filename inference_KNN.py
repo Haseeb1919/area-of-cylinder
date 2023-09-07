@@ -3,7 +3,7 @@ import joblib
 def predict():
     try:
         # Load the best model
-        best_model = joblib.load('knn_model1.joblib')
+        best_model = joblib.load('knn_model.joblib')
 
         # Get user input for radius and height
         radius_input = float(input("Enter the radius: "))
