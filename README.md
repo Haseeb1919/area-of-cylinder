@@ -6,6 +6,9 @@ This project aims to predict the surface area of a cylinder based on its radius 
 [GitHub Repository](https://github.com/Haseeb1919/area-of-cylinder)
 
 
+## **Follow the steps below to set up and complete the project.**
+
+
 ## Step 1: Generate and Split the Dataset
 
 - Create a dataset with synthetic data points representing cylinders with various radii and heights.
@@ -27,6 +30,7 @@ This project aims to predict the surface area of a cylinder based on its radius 
 **Libraries Used**: `sklearn`, `pandas`
 
 **Files**: `KNN.ipynb`
+
 **Files**: `RandomForest.ipynb`
 
 
@@ -40,8 +44,10 @@ This project aims to predict the surface area of a cylinder based on its radius 
 **Libraries Used**: `sklearn`
 
 **Files**: `KNN.ipynb`
+
 **Files**: `RandomForest.ipynb`
 
+**Note**: The files mentioned above, `KNN.ipynb` and `RandomForest.ipynb`, are the same files as described in Step 2.
 
 ## Step 4: Create an Inference Script
 
@@ -51,6 +57,7 @@ This project aims to predict the surface area of a cylinder based on its radius 
 **Libraries Used**: `sklearn`, `joblib` (for model serialization)
 
 **Files**: `inference_KNN.py`
+
 **Files**: `inference_RF.py`
 
 ## How to Install Required Libraries
