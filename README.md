@@ -29,9 +29,9 @@ This project aims to predict the surface area of a cylinder based on its radius 
 
 **Libraries Used**: `sklearn`, `pandas`
 
-**Files**: `KNN.ipynb`
+**Files**: `KNN_Model.ipynb`
 
-**Files**: `RandomForest.ipynb`
+**Files**: `RandomForest_Model.ipynb`
 
 
 
@@ -43,11 +43,10 @@ This project aims to predict the surface area of a cylinder based on its radius 
 
 **Libraries Used**: `sklearn`
 
-**Files**: `KNN.ipynb`
+**Files**: `KNN_Model.ipynb`
+**Files**: `RandomForest_Model.ipynb`
 
-**Files**: `RandomForest.ipynb`
-
-**Note**: The files mentioned above, `KNN.ipynb` and `RandomForest.ipynb`, are the same files as described in Step 2.
+**Note**: The files mentioned above, `KNN_Model.ipynb` and `RandomForest_Model.ipynb`, are the same files as described in Step 2.
 
 ## Step 4: Create an Inference Script
 
