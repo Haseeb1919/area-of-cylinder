@@ -27,7 +27,7 @@ This project aims to predict the surface area of a cylinder based on its radius 
 - **Data Scaling**: Different types of scaling techniques were tried to normalize the data and assess their impact on model performance. The chosen scaling technique for this project is Standard Scaling.
 
 
-**Libraries Used**: `sklearn`, `pandas`
+**Libraries Used**: `sklearn`, `pandas`, `matplotlib`
 
 **Files**: `KNN_Model.ipynb`
 
@@ -41,7 +41,7 @@ This project aims to predict the surface area of a cylinder based on its radius 
 - Adjust model parameters to optimize their fit to the data.
 - Evaluate model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R2) scores.
 
-**Libraries Used**: `sklearn`
+**Libraries Used**: `sklearn`, `matplotlib`
 
 **Files**: `KNN_Model.ipynb`
 **Files**: `RandomForest_Model.ipynb`
@@ -85,4 +85,8 @@ scikit-learn==0.24.2
 
 # Model serialization
 joblib==1.1.0
+
+# Library for data visualization
+matplotlib==3.4.3
+
 
